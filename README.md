@@ -1,2 +1,2 @@
-# Dwisatriapatra.github.io
+# PattimuraDev.github.io
 My personal landing page
